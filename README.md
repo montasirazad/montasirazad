@@ -1,8 +1,8 @@
- ### Hi there 👋, I am Montasir Azad
+### Hi there 👋, I am Montasir Azad
 #### Web Developer (MERN)
  
 
-Skills:  HTML /CSS / JS / REACT / Node.js / EXPRESS.JS /  Mongodb 
+Skills:  [<i class="fab fa-html5"></i>]HTML /CSS / JS / REACT / Node.js / EXPRESS.JS /  Mongodb 
 
 - 🌱 I’m currently learning Express.js  
 
