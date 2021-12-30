@@ -4,7 +4,7 @@
 
 Skills:  HTML /CSS / JS / REACT / Node.js / EXPRESS.JS /  Mongodb 
 
-- 🌱 I’m currently learning Express.js  
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/montasirazad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/montasir-azad-525094123/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/montasir.azad/)  
