@@ -2,7 +2,7 @@
 #### Web Developer (MERN)
  
 
-Skills:  HTML /CSS / JS / REACT / Node.js / EXPRESS.JS /  Mongodb 
+Skills:  HTML /CSS / JS / REACT /Next Js / Node.js / EXPRESS.JS /  Mongodb 
 
 
 
