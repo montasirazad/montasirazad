@@ -4,7 +4,7 @@
 
 Skills:  HTML /CSS / JS / REACT /Next Js / Node.js / EXPRESS.JS /  Mongodb 
 
-<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-logo-download-in-png-blend-fbx-gltf-file-formats--code-coding-programming-social-media-pack-company-brand-logos-4781249.png?f=webp' height='40'/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png' height='40'/><img src='[https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png)' height='40'/>
+<img src='https://cdn3d.iconscout.com/3d/free/thumb/free-html-3d-logo-download-in-png-blend-fbx-gltf-file-formats--code-coding-programming-social-media-pack-company-brand-logos-4781249.png?f=webp' height='40'/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/120px-CSS3_logo_and_wordmark.svg.png' height='40'/><img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png' height='40'/>
  
 
 
